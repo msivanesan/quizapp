@@ -1,5 +1,6 @@
-# quizapp
-android app with 5 questions each subjects as static in this application
+# Quizapp
+* android app with 5 questions each subjects as static in this application
+* this app is developed in java
 
 # componets used
 * recycler view to list the qustins and subjects dinamicaly
